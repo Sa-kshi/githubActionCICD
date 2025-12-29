@@ -19,4 +19,20 @@ public class ProductController : ControllerBase
         var employees = _context.Employees.ToList();
         return Ok(employees);
     }
+
+    [HttpGet("test")]
+    public IActionResult Test()
+    {
+        try
+        {
+            var employeesCount = _context.Employees.Count();
+            return Ok($"Employees table has {employeesCount} records.");
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
+
 }
+
