@@ -88,6 +88,9 @@
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/bin/Debug/net10.0/Mono.TextTemplating.dll
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/bin/Debug/net10.0/System.ClientModel.dll
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/bin/Debug/net10.0/System.CodeDom.dll
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/bin/Debug/net10.0/System.Composition.AttributedModel.dll
@@ -196,6 +199,7 @@
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/obj/Debug/net10.0/githubcicd.csproj.CoreCompileInputs.cache
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/obj/Debug/net10.0/githubcicd.MvcApplicationPartsAssemblyInfo.cs
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/obj/Debug/net10.0/githubcicd.MvcApplicationPartsAssemblyInfo.cache
+/Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/obj/Debug/net10.0/githubcicd.sourcelink.json
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /Users/sakshitomar/Sandeep Sir class/GithubAction/githubcicd/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
